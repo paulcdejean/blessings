@@ -1,0 +1,3 @@
+Blessings is a library designed to make it easy to manage terminal input and output, without all the cruft that the curses family of libraries brings.
+
+Simple software is possible after complex software for the task has already been built, so despite seeming more rudimentary than curses, this should be considered a sucessor.
